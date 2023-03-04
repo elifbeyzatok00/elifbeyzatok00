@@ -7,7 +7,7 @@
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elifbeyzatok00" alt="elifbeyzatok00" /></a> </p>
 
-- 🌱 I’m currently learning **PHP and Python**
+- 🌱 I’m currently learning **PHP** and **Python**
 
 - 📫 How to reach me **elifbeyzatok@gmail.com**
 
