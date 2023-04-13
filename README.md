@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elif-beyza-tok-0382bb239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-beyza-tok-0382bb239" height="30" width="40" /></a>
-<a href="https://app.patika.dev/elifbeyzatok" target="blank"><img align="center" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/apple-touch-icon-precomposed.png" alt="elif-beyza-tok-patika" height="30" width="40" /></a>
+<a href="https://app.patika.dev/elifbeyzatok" target="blank"><img align="center" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/apple-touch-icon-precomposed.png" alt="elif-beyza-tok-patika" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/elif-beyza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elif-beyza" height="30" width="40" /></a>
 <a href="https://kaggle.com/elifbeyzatok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elifbeyzatok" height="30" width="40" /></a>
 <a href="https://instagram.com/e.lifbeyza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e.lifbeyza" height="30" width="40" /></a>
