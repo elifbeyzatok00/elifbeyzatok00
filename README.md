@@ -10,14 +10,18 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elif-beyza-tok-0382bb239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-beyza-tok-0382bb239" height="30" width="40" /></a>
+<!--  
 <a href="https://academy.patika.dev/profile" target="_blank"><img align="center" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/apple-touch-icon-precomposed.png" alt="elif-beyza-tok-patika" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/elif-beyza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elif-beyza" height="30" width="40" /></a>
 <a href="https://kaggle.com/elifbeyzatok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elifbeyzatok" height="30" width="40" /></a>
+-->
 <a href="https://medium.com/@elifbeyzatok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elifbeyzatok" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@elifbeyza4000/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@elifbeyza4000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/elifbeyzatok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elifbeyzatok" height="30" width="40" /></a>
+<!--  
 <a href="https://www.leetcode.com/elifbeyzatok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elifbeyzatok" height="30" width="40" /></a>
   <a href="https://coderbyte.com/profile/elifbeyzatok" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--aOxxf45v--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1155/daee822c-2c89-4fd4-98f3-b58afb56bbef.jpg" alt="elifbeyzatok" height="30" width="30" /></a>
+-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
