@@ -85,9 +85,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifbeyzatok00&show_icons=true&locale=en" alt="elifbeyzatok00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifbeyzatok00&" alt="elifbeyzatok00" /></p>
+
 
 <!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elifbeyzatok00&" alt="elifbeyzatok00" /></p>
 <p align="left"> 
 </p>      
 --> 
