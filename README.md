@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Elif 👋</h1>
 <h3 align="center">A Software Engineering Student</h3>
-<!--
-- 🌱 I’m currently developing myself on **Frontend & Backend Web Technologies(especially on Javascript), Data Science & AI Technologies(especially on Python)**
--->
+
+- 🌱 I’m currently developing myself on **Data Science & AI Technologies**
 
 - 📫 How to reach me **elifbeyzatok@gmail.com**
 
