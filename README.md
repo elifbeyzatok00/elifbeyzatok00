@@ -3,7 +3,9 @@
 <!--
 - 🌱 I’m currently developing myself on **Data Science & AI Technologies**
 -->
-- 📚 Improves herself in Data Science, Machine Learning and Deep Learning. Loves working with data and artificial intelligence technologies.
+
+- 📚 Improving myself in **Data Science, Machine Learning and Deep Learning**. I love working with **data** and **Artificial Intelligence** Technologies.
+
 - 📫 How to reach me **elifbeyzatok@gmail.com**
 <!--
 - ⚡ Fun fact **I am in love with coding**
