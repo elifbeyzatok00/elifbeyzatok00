@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Elif 👋</h1>
 <h3 align="center">A Software Engineering Student</h3>
-
+<!--
 - 🌱 I’m currently developing myself on **Data Science & AI Technologies**
-
+-->
+- 📚 Improves herself in Data Science, Machine Learning and Deep Learning. Loves working with data and artificial intelligence technologies.
 - 📫 How to reach me **elifbeyzatok@gmail.com**
 <!--
 - ⚡ Fun fact **I am in love with coding**
