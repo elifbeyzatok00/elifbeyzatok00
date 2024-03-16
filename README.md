@@ -4,7 +4,7 @@
 - 🌱 I’m currently developing myself on **Data Science & AI Technologies**
 -->
 
-- 👩🏻‍💻 Passionate 4th-grade Software Engineering student specializing in AI, Data Science, Machine Learning, and Deep Learning. I am good at utilizing languages like Python and Java, as well as technologies such as PyTorch, AWS, and Git. My focus lies in NLP and CRM Analytics, and I am actively engaged in projects to enhance my skills. Eager to contribute my knowledge and enthusiasm to innovative projects that push the boundaries of AI technology. 
+- 👩🏻‍💻 Becoming specialized in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning. Proficiently using languages like Python, Java, technologies like PyTorch, AWS, and tools like Git. Focusing on Natural Language Processing and Image Processing. Eager to utilize knowledge and passion in innovative projects pushing the boundaries of AI technology and enhance skills.
 
 - 📫 How to reach me **elifbeyzatok@gmail.com**
 <!--
