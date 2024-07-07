@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Elif 👋</h1>
-<h3 align="center">Jr. AI/ML Engineer</h3>
+<h3 align="center">AI/ML Engineer</h3>
 <!--
 - 🌱 I’m currently developing myself on **Data Science & AI Technologies**
 -->
