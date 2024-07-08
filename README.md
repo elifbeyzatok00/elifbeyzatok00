@@ -34,6 +34,10 @@
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifbeyzatok00&show_icons=true&locale=en&layout=compact" alt="elifbeyzatok00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifbeyzatok00&show_icons=true&locale=en" alt="elifbeyzatok00" /></p>
   
 <!--
 - 👩🏻‍💻 Becoming specialized in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning. Proficiently using languages like Python, Java, technologies like PyTorch, AWS, and tools like Git. Focusing on Natural Language Processing and Image Processing. Eager to utilize knowledge and passion in innovative projects pushing the boundaries of AI technology and enhance skills.
