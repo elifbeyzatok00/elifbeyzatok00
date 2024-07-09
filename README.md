@@ -39,11 +39,18 @@
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=elifbeyzatok00&show_icons=true&locale=en" alt="elifbeyzatok00"/>&nbsp;<img height="180em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elifbeyzatok00&layout=compact&langs_count=8&theme=transparent"/></p>
+<p><a href="https://github.com/elifbeyzatok00">
+  <img  height="180em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elifbeyzatok00&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elifbeyzatok00&layout=compact&langs_count=8&theme=transparent"/>
+</a></p>
+
+
   
 <!--
 - 👩🏻‍💻 Becoming specialized in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning. Proficiently using languages like Python, Java, technologies like PyTorch, AWS, and tools like Git. Focusing on Natural Language Processing and Image Processing. Eager to utilize knowledge and passion in innovative projects pushing the boundaries of AI technology and enhance skills.
 - 📫 How to reach me **elifbeyzatok@gmail.com**
 - 🌱 I’m currently developing myself on **Data Science & AI Technologies**
 - ⚡ Fun fact **I am in love with coding**
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=elifbeyzatok00&show_icons=true&locale=en" alt="elifbeyzatok00"/><img height="180em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elifbeyzatok00&layout=compact&langs_count=8&theme=transparent"/></p>
 -->
