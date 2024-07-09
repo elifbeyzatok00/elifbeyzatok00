@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Elif 👋</h1>
 <h3 align="center">AI/ML Engineer</h3>
 
+<p align="justify">
+👩🏻‍💻 Becoming specialized in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning. Proficiently using languages like Python, Java, technologies like PyTorch, AWS, and tools like Git. Focusing on Natural Language Processing and Image Processing. Eager to utilize knowledge and passion in innovative projects pushing the boundaries of AI technology and enhance skills.
+</p>
+
 #### Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elifbeyzatok@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-beyza-tok-0382bb239/)
@@ -35,9 +39,7 @@
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elifbeyzatok00&show_icons=true&locale=en&layout=compact" alt="elifbeyzatok00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elifbeyzatok00&show_icons=true&locale=en" alt="elifbeyzatok00" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=elifbeyzatok00&show_icons=true&locale=en" alt="elifbeyzatok00"/>&nbsp;<img height="180em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elifbeyzatok00&layout=compact&langs_count=8&theme=transparent"/></p>
   
 <!--
 - 👩🏻‍💻 Becoming specialized in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning. Proficiently using languages like Python, Java, technologies like PyTorch, AWS, and tools like Git. Focusing on Natural Language Processing and Image Processing. Eager to utilize knowledge and passion in innovative projects pushing the boundaries of AI technology and enhance skills.
