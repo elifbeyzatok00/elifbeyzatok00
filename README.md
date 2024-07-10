@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer</h3>
 
 <p align="justify">
-👩🏻‍💻 Becoming specialized in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning. Proficiently using languages like Python, Java, technologies like PyTorch, AWS, and tools like Git. Focusing on Natural Language Processing and Image Processing. Eager to utilize knowledge and passion in innovative projects pushing the boundaries of AI technology and enhance skills.
+👩🏻‍💻 Becoming specialized in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning. Proficiently using languages like Python, Java, technologies like PyTorch, AWS, and tools like Git. Focusing on Natural Language Processing and Computer Vision. Eager to utilize knowledge and passion in innovative projects pushing the boundaries of AI technology and enhance skills.
 </p>
 
 #### Skills
