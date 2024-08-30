@@ -7,7 +7,7 @@
 
 #### Skills
 
-| 🤖 Machine Learning | 🧠 Deep Learning | 📜 Natural Language Processing | 👁️‍🗨️ Computer Vision |
+| 📜 Natural Language Processing | 🤖 Machine Learning | 🧠 Deep Learning | 👁️‍🗨️ Computer Vision |
 |---|---|---|---|
 
 #### Tech Stack
