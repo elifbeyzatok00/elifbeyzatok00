@@ -2,12 +2,12 @@
 <h3 align="center">AI/ML Engineer</h3>
 
 <p align="justify">
-👩🏻‍💻 AI/ML Engineer specializing in NLP, Computer Vision, and Deep Learning. Experienced in AI-driven chatbots, RAG models, and computer vision solutions. Proficient in Python, PyTorch, TensorFlow, and Hugging Face Transformers, with expertise in LLMs, NER, and sentiment analysis. Skilled in model training, evaluation, and deployment, leveraging BERT, CNNs, and GANs. Passionate about AI optimization, research, and competitions.
+👩🏻‍💻 AI/ML Engineer specializing in Machine Learning, NLP, Computer Vision, and Deep Learning. Experienced in AI-driven chatbots, RAG models, and computer vision solutions. Proficient in Python, PyTorch, TensorFlow, and Hugging Face Transformers, with expertise in LLMs, NER, and sentiment analysis. Skilled in model training, evaluation, and deployment, leveraging BERT, CNNs, LSTMs and GANs. Passionate about AI research, optimization, and building scalable, real-world AI applications.
 </p>
 
 #### Skills
 
-| 📜 Natural Language Processing | 🤖 Machine Learning | 🧠 Deep Learning | 👁️‍🗨️ Computer Vision |
+| 🤖 Machine Learning | 📜 Natural Language Processing |👁️‍🗨️ Computer Vision | 🧠 Deep Learning | 
 |---|---|---|---|
 
 #### Tech Stack
