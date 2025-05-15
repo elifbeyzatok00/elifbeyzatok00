@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Elif 👋</h1>
-<h3 align="center">AI/ML Engineer</h3>
+<h3 align="center">Generative AI Engineer</h3>
 
 <p align="justify">
-👩🏻‍💻 AI/ML Engineer specializing in Machine Learning, NLP, Computer Vision, and Deep Learning. Experienced in AI-driven chatbots, RAG models, and computer vision solutions. Proficient in Python, PyTorch, TensorFlow, and Hugging Face Transformers, with expertise in LLMs, NER, and sentiment analysis. Skilled in model training, evaluation, and deployment, leveraging BERT, CNNs, LSTMs and GANs. Passionate about AI research, optimization, and building scalable, real-world AI applications.
+👩🏻‍💻 Generative AI Engineer specializing in building advanced AI-driven solutions using large language models like GPT, RAG frameworks, and AI agent systems (e.g., CrewAI). Experienced in designing, training, and deploying scalable generative models and chatbots. Previously worked as an AI/ML Engineer with a strong background in Machine Learning, NLP, Computer Vision, and Deep Learning. Proficient in Python, PyTorch, TensorFlow, and Hugging Face Transformers, with expertise in LLMs (GPT, BERT), NER, sentiment analysis, and architectures like CNNs, LSTMs, and GANs. Passionate about AI research, optimization, and delivering real-world AI applications.
 </p>
 
 #### Skills
