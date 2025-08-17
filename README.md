@@ -2,7 +2,12 @@
 <h3 align="center">AI Solution Architect | AI/ML Engineer | Generative AI Specialist</h3>
 
 <p align="justify">
-👩🏻‍💻 AI Solution Architect specializing in building advanced AI-driven solutions using large language models like GPT, RAG frameworks, and AI agent systems (e.g., CrewAI). Experienced in designing, training, and deploying scalable generative models and chatbots. Previously worked as an AI/ML Engineer with a strong background in Machine Learning, NLP, Computer Vision, and Deep Learning. Proficient in Python, PyTorch, TensorFlow, and Hugging Face Transformers, with expertise in LLMs (GPT, Llama, BERT), NER, sentiment analysis, and architectures like CNNs, LSTMs, and GANs. Passionate about AI research, optimization, and delivering real-world AI applications.
+👩🏻‍💻 AI professional with a dual background as an AI/ML Engineer and AI Solution Architect, specializing in LLMs, RAG frameworks,
+ and AI agent systems. Skilled in designing and deploying scalable generative AI solutions, chatbots, and enterprise-grade pipelines,
+ while also experienced in hands-on model training, optimization, and evaluation. Proficient in Python, PyTorch, TensorFlow, and
+ Hugging Face Transformers, with expertise in CNNs, LSTMs, and GANs. Experienced in Natural Language Processing (NLP),
+ Computer Vision, and deep learning applications across domains such as document understanding, healthcare, and e-commerce.
+ Passionate about bridging research and real-world impact by delivering end-to-end AI applications.
 </p>
 
 #### Skills
